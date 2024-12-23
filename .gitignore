@@ -1,0 +1,3 @@
+.venv
+main/src/*.env
+main/src/data
